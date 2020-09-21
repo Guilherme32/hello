@@ -1,0 +1,34 @@
+/* Adicionado por mim */
+div dl.class{
+ background-color: #ddf0c5;
+}
+
+div dl.class>dt:first-child{
+    padding: 10px;
+    background-color: #a1cf67;
+    font-size: 110%;
+}
+
+
+div dl.class dl.method>dt:first-child{
+    background-color: #bacf9f;
+}
+
+div dl.class dl.method>dt:first-child:target, span.highlighted {
+/* Copiado do basic.css pq a prioridade do último estava sempre maior*/
+    background-color: #fbe54e;
+}
+
+div.body h1{
+    background-color: #a1cf67;
+    text-shadow: none;
+}
+
+div.body h2,
+div.body h3,
+div.body h4,
+div.body h5,
+div.body h6 {
+    background-color: #b6de83;
+    text-shadow: none;
+}

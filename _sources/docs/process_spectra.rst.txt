@@ -1,7 +1,0 @@
-process\_spectra module
-========================
-
-.. automodule:: process_spectra
-   :members:
-   :undoc-members:
-   :show-inheritance:
